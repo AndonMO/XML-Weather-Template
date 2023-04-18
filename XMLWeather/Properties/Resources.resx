@@ -3468,4 +3468,50 @@
         FvBECLyHAhnoQAgC7BcTtJIFnYEdwcZtsIM+cgwIxyFCywgwcSdM4UG2lJIWauSFAQEAOw==
 </value>
   </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="snowDayWeather" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\snowDayWeather.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="stormDayWeather" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\stormDayWeather.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cloudyDayWeather" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cloudyDayWeather.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sunnyDayWeather" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sunnyDayWeather.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rainyDayWeather" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rainyDayWeather.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sunnyDayWeather2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sunnyDayWeather2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="brokenCloudsIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\brokenCloudsIcon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cloudyDayWeather2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cloudyDayWeather2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cloudyIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cloudyIcon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fewCloudsIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fewCloudsIcon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rainIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rainIcon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="showersIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\showersIcon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="snowIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\snowIcon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="stormIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\stormIcon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sunIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sunIcon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

@@ -73,9 +73,21 @@ namespace XMLWeather
 
         private void searchButton_Click(object sender, EventArgs e)
         {
-            cityInput.Text = Form1.city;
-            countryInput.Text = Form1.country;
-            Form1.days.Clear();
+           try
+            {
+                Form1.ExtractForecast(cityInput.Text, countryInput.Text);
+                Form1.ExtractCurrent(cityInput.Text, countryInput.Text);
+                DisplayCurrent();
+            }
+           catch
+            {
+                cityInput.Text = "ERROR: City not found";
+                countryInput.Text = "ERROR: City not found";
+            }
+
+
+
+
         }
     }
 }

@@ -114,10 +114,10 @@
             this.currentOutput.BackColor = System.Drawing.Color.Transparent;
             this.currentOutput.Font = new System.Drawing.Font("Microsoft Sans Serif", 48F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.currentOutput.ForeColor = System.Drawing.Color.White;
-            this.currentOutput.Location = new System.Drawing.Point(190, 172);
+            this.currentOutput.Location = new System.Drawing.Point(144, 172);
             this.currentOutput.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.currentOutput.Name = "currentOutput";
-            this.currentOutput.Size = new System.Drawing.Size(128, 113);
+            this.currentOutput.Size = new System.Drawing.Size(174, 113);
             this.currentOutput.TabIndex = 28;
             this.currentOutput.Text = "20";
             this.currentOutput.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;

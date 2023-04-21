@@ -87,10 +87,10 @@
             // 
             this.max1.BackColor = System.Drawing.Color.White;
             this.max1.Font = new System.Drawing.Font("Trebuchet MS", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.max1.Location = new System.Drawing.Point(28, 255);
+            this.max1.Location = new System.Drawing.Point(18, 255);
             this.max1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.max1.Name = "max1";
-            this.max1.Size = new System.Drawing.Size(39, 32);
+            this.max1.Size = new System.Drawing.Size(49, 32);
             this.max1.TabIndex = 45;
             this.max1.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
